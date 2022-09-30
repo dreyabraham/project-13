@@ -13,7 +13,7 @@ For this we create a new folder to keep each enviroment variables  `mkdir env-va
 
 Then for each enviroment we create new .yml files
 
-![project 13](Images/struture.png)
+![project 13](Images/struture.PNG)
 
 
 
@@ -117,8 +117,8 @@ load_balancer_is_required: true
 ```
 To test this, you can update inventory for each environment and run Ansible against each environment.
  
- ![project 13](Images/webservr.png)
+ ![project 13](Images/webservr.PNG)
 
- ![project 13](Images/devop.png)
+ ![project 13](Images/devop.PNG)
 
- ![project 13](Images/mysq.png)
+ ![project 13](Images/mysq.PNG)
